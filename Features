@@ -1,0 +1,7 @@
+Reads acceleration data from the MPU6050.
+200 Hz sampling rate.
+High sensitivity (±2g accelerometer range).
+44 Hz digital low-pass filter to reduce noise.
+Outputs acceleration in units of g.
+CSV formatted serial output.
+Suitable for vibration analysis and FFT applications.
